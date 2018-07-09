@@ -1,0 +1,20 @@
+---
+title: "The Replication Crisis in Psychology"
+author:
+  - Mark Andrews
+  - Lucy V. Justice
+date: "July, 2018"
+output: pdf_document
+bibliography: include/refs.bib
+csl: include/apa.csl
+abstract: |
+  This is a short note on the replication crisis in psychology. It will appear (hopefully) as a section of a chapter of a textbook.
+---
+
+```{r child = 'section01.Rmd'}
+```
+
+```{r child = 'section02.Rmd'}
+```
+
+# References

@@ -1,0 +1,168 @@
+# Another section
+
+## Why did the replication crisis happen?
+
+As psychologists we aim not only to describe patterns of human
+behaviour, but also to try and understand and interpret them. So far,
+we've described what the replication crisis is, what occurred and
+examined some of the major replication studies, next we need to try and
+understand why the replication crisis happened in the first place. The
+causes can be broken down, broadly, into two major elements: the
+proximal and distal. Let's first examine the distal.
+
+### Distal elements
+
+Distal causes, referring to that which is located far from a point of
+reference, here the individual, centre around the scientific publishing
+model. You have probably seen research articles either in your previous
+studies or linked media articles in the news or online. Have you ever
+thought about how and why those articles came to 'be'? You\'d probably
+assume that academics simply conduct a study, write up their findings,
+submit it to a journal and then following some esoteric deliberation
+with various other academics, the paper appears in press. For the most
+part this is correct, research is conducted, deliberation is had, edits
+are made and finally (hopefully) the paper appears in a journal. That
+answers the how. What about the why? Why do academics complete these
+studies and publish them in academic journals? An obvious answer here
+might be because they want to -- they're highly trained and specialised
+individuals who want to contribute knowledge to their discipline.
+Another answer might also be because they have to. Academics are paid
+to, amongst other things, research. Without publishing and sharing their
+findings, there would be little point in completing the research in the
+first place. That's true, but let's examine this last point in more
+detail.
+
+### Publish or Perish
+
+Of course, all jobs come with expectations and tasks that need
+completing, obviously for the academics, research is one of these. But
+what happens when your equipment breaks and the experiment didn't run
+properly or when there simply wasn\'t time between marking, teaching,
+marking, supervising, marking and sleeping to conduct interesting and
+novel research? Well, academics still have to publish novel research.
+And not just because it's part of the job description (in fact, it often
+isn't -- academics are often required to conduct research, but not
+necessarily, contractually, publish it), but because in academia
+publications matter. They matter so much that young academics are often
+warned: *publish or perish*. They matter for reputation, for promotions,
+to get funding, to go to conferences, they matter if you want to be a
+'successful' academic. However, there also exists another caveat in the
+world of academic research. Not only do you have to publish a consistent
+stream novel, cutting-edge, internationally recognised research, but
+this research also has to include statistically significant results.
+
+### The file drawer
+
+Have you ever read a paper that doesn't include *any* statistically
+significant results? With the exception of qualitative work (which by
+its nature doesn't use hypothesis testing or statistical analyses), the
+chances are you haven't. This is because in general journals will only
+publish research that contains statistically significant findings. So,
+let's put this in context: you have a specific hypothesis in mind --
+let's say you hypothesise that when people tell a lie, they will use
+more non-fluencies in their speech (umms, erms etc) than when they are
+telling the truth. So, you run a study to test that hypothesis, you
+analyse the results and after statistical analysis the *p*-value of your
+test is greater than the threshold (known as *alpha,* this is usually
+0.05 in psychological research). In this case then, your hypothesis was
+not supported, but the results are still interesting. Your results show
+that liars and truth-tellers appear to speak as fluently as each other,
+meaning that perhaps, non-fluent, hesitant speech may not be a reliable
+indicator of lying. That's a really interesting and important finding.
+However, because this finding was not significant, you won't be able to
+publish it -- journals want statistically significant findings, and so
+you cannot communicate this finding with your scientific community. This
+then leads to what is termed *the file drawer effect*, whereby academics
+end up filing away all their non-significant findings in their desk
+drawer just because their result wasn't statistically significant. This
+has huge ramifications for the scientific community, primarily that
+important findings are never shared. Not only does this mean that we are
+missing vital knowledge, but also that other academics are repeating
+research, using time and money to explore ideas that others have already
+completed. This problem is not new, as can be seen in the discussion by
+Rosenthal (1979), suggesting that there may be many many studies
+languishing in the file drawer. However, it also means one less
+publication for the individual(s) that ran the study but in a landscape
+that is littered with warnings of *publish or perish*, can the academic
+really afford to not publish? Can they really put what might have been
+an expensive and time-consuming project into the file drawer? What will
+they tell their funders? What will they tell their boss? What about
+their reputation as an academic? Perhaps they could just have another
+look at the data? Herein lie the proximal problems.
+
+### Proximal elements
+
+We now know that academics have to consistently publish high quality,
+internationally important statistically significant work in order not to
+perish in the world of academia. We have also seen that often there are
+factors that mean that this is not always possible -- we simply might
+not have time or resources to do research or our analyses might not give
+us statistically significant results. So then what? Unfortunately, what
+often happens is that academics engage in what have been called
+Questionable Research Practices (QRP's) to prevent them from perishing.
+In fact, in a recent survey of 2,000 psychologists (John, Loewenstein &
+Prelec, 2012), the majority said that they had used one or more QRP in
+order to publish their work. Below is a non-exhaustive overview of some
+behaviours deemed to be QRPs.
+
+### p-hacking
+
+p-hacking is a collection of practices whereby researchers may "massage"
+their data until their statistical tests provide *p*-values that are
+less than the threshold (usually \<0.05). This "massaging" can be done
+in multiple ways:
+
+*Excluding / removing data without prior justification.* This occurs
+when data are removed because they don't support the hypothesis. There
+needs to be a very strong rationale for removing participants from a
+dataset. These reasons should be stated and recorded prior to data
+collection and can be motived by theory (e.g. reaction times above a
+certain threshold in a task) and / or methodological concerns (i.e.
+remove participants who only answered "strongly agree" on all
+questionnaire items).
+
+*Optional stopping.* This refers to when the decision to stop data
+collection is made. You may have run a study and collected data from 25
+people but after analysing the results, realise that you are close to
+but not at a *p*-value of 0.05. you therefore collect data from another
+15 people in the hopes that it will nudge the significance over 0.05. As
+with data exclusion / removal, the number of people to be tested should
+be decided on prior to experimentation, and ideally informed by a sample
+size analysis.
+
+*Rounding down to 0.05*. Sometimes *p*-values are tantalisingly close to
+0.05, indeed, it may be the case that your statistical test reveals a
+*p-*value of 0.054. In this case however, the value is over 0.05 and
+therefore, not significant and should be reported as such. There of
+course is temptation to simply round the number down and report it as
+*p* = 0.05, claiming significance when it was not in fact not found.
+
+In additional to *p*-hacking, there are other ways that researchers can
+engage with questionable research practices:
+
+*Excluding studies that didn\'t work.* Researchers may run a series of
+studies to test a particular phenomenon, however when they write up
+their results, they may decide to leave out the studies that didn't work
+or that didn't give results the researchers hoped for. This may be done
+so that the researchers can write a clearer narrative or to give the
+impression that their hypotheses were derived from literature and theory
+rather than testing in the lab.
+
+*Selectively Reporting DVs.* Relatedly, researchers may only report the
+dependent variables that produced significant results, omitting from
+their work those that gave null results or results that are difficult to
+explain.
+
+*Selectively Reporting IVs.* Researchers may also omit from their
+writing independent variables that did not give rise to significant
+results. Again, this is done to improve the narrative of a research
+paper but is problematic as variables that may have played an important
+part in those results are not available for other researchers to assess.
+
+*Changing hypotheses after obtaining the results.* A paper by (REF)
+showed how in psychology, ??% of hypotheses are confirmed by
+experimentation. Perhaps it is the case that psychologists are just very
+good at using literature and theory to make claims about outcomes, but
+it is also likely that many hypotheses get changed once results are in,
+allowing the researchers to claim they had expected those results all
+along.
